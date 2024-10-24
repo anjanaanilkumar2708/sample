@@ -1,0 +1,17 @@
+after creating a new file in the repository:
+
+1.Git add . - staging area-before push operation
+2.after changes-commit-Git commit-m "short msg stating the changes made"
+3.push-Git push origin main
+
+===========================================================================================================
+
+Git clone https://github.com/anjanaanilkumar2708/sample.git
+
+Git and Github
+
+alternatives:- AWS,bitbucket,gitlab
+
+* git add . >>> add the files to the staging alternatives
+* git commit -m "message" >>> to commit the changes in the tracked file
+* git push origin main >>> pushing the file to the main branch in Github repository
